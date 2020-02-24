@@ -13,3 +13,8 @@
 ['civic', 'ivi']
 
 ## Candidate Notes
+* Create a loop with string length
+* Get the sub string from string
+* Check the length is greater than 2 and check if the string is palindrome or not
+* If the substring is palindrome then push the string to array
+* Print the array
